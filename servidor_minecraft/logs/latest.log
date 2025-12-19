@@ -1,0 +1,31 @@
+[19Dec2025 00:10:59.144] [Server thread/INFO] [net.minecraft.class_3244/]: tobs_z lost connection: Disconnected
+Server threadEx[19Dec2025 00:10:59.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tobs_z left the game
+Server threadEx[19Dec2025 00:12:23.937] [User Authenticator #4/INFO] [net.minecraft.class_3248/]: UUID of player tobs_z is b025ed84-79fa-3318-a3e2-c947cc0b34f7
+User Authenticator #4Ex[19Dec2025 00:12:25.681] [Server thread/INFO] [net.minecraft.class_3324/]: tobs_z[/10.244.188.89:52496] logged in with entity id 37381 at (-780.5599744091198, -33.0, 418.9841951999758)
+Server threadEx[19Dec2025 00:12:25.683] [Server thread/INFO] [owo/]: Sending server config values to client
+Server threadEx[19Dec2025 00:12:25.688] [Server thread/INFO] [PneumonoCoreConfig/]: Sent config sync packet to 1 player(s)
+Server threadEx[19Dec2025 00:12:25.688] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Loading config from file...
+Server threadEx[19Dec2025 00:12:25.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tobs_z joined the game
+Server threadEx[19Dec2025 00:12:25.862] [Server thread/INFO] [owo/]: Receiving client config
+Server threadEx[19Dec2025 00:16:00.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tobs_z has made the advancement [Ice Bucket Challenge]
+Server threadEx[19Dec2025 00:20:13.941] [Server thread/INFO] [net.minecraft.class_3244/]: tobs_z lost connection: Disconnected
+Server threadEx[19Dec2025 00:20:13.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tobs_z left the game
+Server threadEx[19Dec2025 01:05:46.311] [User Authenticator #5/INFO] [net.minecraft.class_3248/]: UUID of player tobs_z is b025ed84-79fa-3318-a3e2-c947cc0b34f7
+User Authenticator #5Ex[19Dec2025 01:05:48.525] [Server thread/INFO] [net.minecraft.class_3324/]: tobs_z[/10.244.188.89:61808] logged in with entity id 38615 at (-819.4524535784734, -55.0, 394.48567833239485)
+Server threadEx[19Dec2025 01:05:48.526] [Server thread/INFO] [owo/]: Sending server config values to client
+Server threadEx[19Dec2025 01:05:48.529] [Server thread/INFO] [PneumonoCoreConfig/]: Sent config sync packet to 1 player(s)
+Server threadEx[19Dec2025 01:05:48.529] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Loading config from file...
+Server threadEx[19Dec2025 01:05:48.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tobs_z joined the game
+Server threadEx[19Dec2025 01:05:49.332] [Server thread/INFO] [owo/]: Receiving client config
+Server threadEx[19Dec2025 01:07:55.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tobs_z has made the advancement [Custom Backpacks]
+Server threadEx[19Dec2025 01:11:09.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tobs_z has made the advancement [Enchanter]
+Server threadEx[19Dec2025 01:26:01.841] [Server thread/INFO] [net.minecraft.class_3244/]: tobs_z lost connection: Timed out
+Server threadEx[19Dec2025 01:26:01.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tobs_z left the game
+Server threadEx[19Dec2025 01:26:50.494] [User Authenticator #6/INFO] [net.minecraft.class_3248/]: UUID of player tobs_z is b025ed84-79fa-3318-a3e2-c947cc0b34f7
+User Authenticator #6Ex[19Dec2025 01:26:52.239] [Server thread/INFO] [net.minecraft.class_3324/]: tobs_z[/10.244.188.89:64115] logged in with entity id 41601 at (-896.0998289294265, -39.03363195835876, 376.78398188333455)
+Server threadEx[19Dec2025 01:26:52.240] [Server thread/INFO] [owo/]: Sending server config values to client
+Server threadEx[19Dec2025 01:26:52.242] [Server thread/INFO] [PneumonoCoreConfig/]: Sent config sync packet to 1 player(s)
+Server threadEx[19Dec2025 01:26:52.242] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Loading config from file...
+Server threadEx[19Dec2025 01:26:52.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tobs_z joined the game
+Server threadEx[19Dec2025 01:26:52.407] [Server thread/INFO] [owo/]: Receiving client config
+Server threadEx

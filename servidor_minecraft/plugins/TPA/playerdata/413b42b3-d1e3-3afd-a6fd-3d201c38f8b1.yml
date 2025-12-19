@@ -1,0 +1,17 @@
+player_name: EldelPan_
+language: en_US
+setlang: true
+logout_location:
+  world: world
+  x: -711.6675263378046
+  y: 69.0
+  z: 532.1440032417094
+  pitch: 13.0499935
+  yaw: -84.97563
+last_location:
+  world: world
+  x: -759.7668679055836
+  y: 69.0
+  z: 590.7550303390674
+  pitch: 2.0999904
+  yaw: -73.64994

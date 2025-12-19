@@ -1,0 +1,16 @@
+language: es_ES
+setlang: false
+last_location:
+  world: world
+  x: -25.314848496686082
+  y: 67.0
+  z: 28.254261769116564
+  pitch: -1.05
+  yaw: 63.149998
+logout_location:
+  world: world
+  x: -990.6999999880791
+  y: 72.0
+  z: 131.2625324111997
+  pitch: 18.900146
+  yaw: 21.859863
